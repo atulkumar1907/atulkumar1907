@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **Reactjs, nodejs, MongoDB, C++**
+- 🌱 I’m currently learning **Reactjs, Nodejs, MongoDB, C++**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React.js, Node.js, express.js, MongoDB**
 
